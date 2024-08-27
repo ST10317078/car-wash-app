@@ -27,7 +27,7 @@ const Home = () => {
         <div className="banner-text">
           <h1>Your Car Deserves the Best</h1>
           <p>Experience premium car care with our reliable and eco-friendly service.</p>
-          <Link to="/Signup" className="cta-button">Book Your Wash Now</Link>
+          <Link to="/Signup" className="cta-button">Book Now</Link>
         </div>
       </section>
 
